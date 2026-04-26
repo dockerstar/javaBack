@@ -1,6 +1,4 @@
-package back.dimon;
-
-import org.springframework.stereotype.Component;
+package back.dimon.IoC;
 
 public class UserMessageService {
     public String createMessage(String name) {

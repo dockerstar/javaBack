@@ -1,4 +1,4 @@
-package back.dimon;
+package back.dimon.IoC;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

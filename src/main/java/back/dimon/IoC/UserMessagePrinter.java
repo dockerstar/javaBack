@@ -1,4 +1,4 @@
-package back.dimon;
+package back.dimon.IoC;
 
 public class UserMessagePrinter {
     private final UserMessageService userMessageService;
