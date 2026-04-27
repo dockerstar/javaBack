@@ -11,5 +11,6 @@ public class Main {
         JobRunner jobRunner2 = context.getBean(JobRunner.class);
         jobRunner1.runOnce();
         jobRunner2.runOnce();
+        System.out.println("BeanSCope");
     }
 }
